@@ -12,7 +12,7 @@ Jekyll requires blog post files to be named according to the following format:
 
 Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-![my equation](https://latex.codecogs.com/gif.latex?L_i(x,&space;\omega_o)&space;=&space;L_e&space;&plus;&space;\int_\Omega&space;L_i(y,&space;\omega_i)&space;f_r(x,\omega_o,\omega_i)\cos(\theta)&space;\cdot&space;dw_i)
+$$L_o(x, \omega_o) = L_e + \int_\Omega f_r(x, \omega_i, \omega_o)L_i(x, \omega_i)(\omega_i \cdot n) d\omega_i $$
 
 Jekyll also offers powerful support for code snippets:
 
