@@ -21,7 +21,7 @@
 title: Anand Hotwani's Blog
 email: anandhotwani3d@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Musings on topics I find interesting in the world of Computer Graphics. Sometimes technical, sometimes creative. 
+  Writing about topics I find interesting in the world of Computer Graphics. Sometimes technical, sometimes creative. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: anandhotwani

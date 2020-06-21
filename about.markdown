@@ -8,5 +8,5 @@ I am a Lighting Technical Director currently working in the Visual Effects indus
 
 You can find my blog posts [here](https://anandhotwani.github.io) 
 
-List of projects I have worked on [here](https://anandhotwani.github.io)
+List of projects I have worked on [here](https://anandhotwani.github.io/projects/)
 
