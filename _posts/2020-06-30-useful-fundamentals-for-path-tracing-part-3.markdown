@@ -64,13 +64,13 @@ One last colour space I want to cover is Pointer’s Gamut. This is a bit differ
 
 To demonstrate how rendering in a spectral domain can improve colour representation in physically based rendering, here’s a test Anders Langlands did some years back to evaluate rendering colour spaces. The examples I’ll use are sRGB and spectral, and finally the difference *2. Though please note Anders Langands did test other spaces as well. The key difference here is in the indirect illumination (GI) and how differently the results occur, especially in yellow-orange colours.
 
-![sRGB-render](/img/useful-path-tracing-fundamentals/sRGB-render.png){: .center-image}
-*<center>Rendering spectrally using wavelengths between 380-780nm</center>*
+![sRGB-render](/img/useful-path-tracing-fundamentals/srgb-render.png){: .center-image}
+*<center>Rendering using sRGB/Rec. 709 primaries as the RGB rendering space</center>*
 
 
 
 ![Spectral-render](/img/useful-path-tracing-fundamentals/spectral-render.png){: .center-image}
-*<center>Rendering using sRGB/Rec. 709 primaries as the RGB rendering space</center>*
+*<center>Rendering spectrally using wavelengths between 380-780nm</center>*
 
 
 
