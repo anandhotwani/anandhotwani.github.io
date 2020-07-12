@@ -2,7 +2,7 @@
 layout: post
 title:  "Useful Fundamentals for Path Tracing: Part 2"
 date:   2020-06-15 08:32:10 +0100
-categories: jekyll update
+categories:  
 ---
 
 

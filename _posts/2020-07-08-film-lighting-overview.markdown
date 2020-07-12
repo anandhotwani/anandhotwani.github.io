@@ -2,7 +2,7 @@
 layout: post
 title:  "Film Lighting Overview"
 date:   2020-07-08 13:22:16 +0100
-categories: jekyll update
+categories:  
 ---
 
 
