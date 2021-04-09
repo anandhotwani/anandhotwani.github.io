@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a Lighting Technical Director currently working in the Visual Effects industry at DNEG. My interests are Light Transport, Physically Based Shading and Colour Management Systems.
+I am a Technical Artist working at Epic Games, currently on the MetaHuman Creator. Previously at DNEG, Ninja Theory and The Mill. My interests are Light Transport, Physically Based Shading and Colour Management Systems.
 
 You can find my blog posts [here](https://anandhotwani.github.io) 
 
